@@ -6,11 +6,4 @@ Repositorio del Curso LLMs y AutoML del ITAM otonyo 23
 
 [Syllabus](https://docs.google.com/document/d/1TUuuveKpswmbMX7qQuIFnpHTd8l-l1quOX0tnqx1PiM/edit?usp=sharing)  
 
-[Calendario y Anuncios](https://docs.google.com/spreadsheets/d/1arYGvIEW7EC8RskAFhHnzMhsBPMlN55yk97aFzSE1ug/edit?usp=sharing)  
-
-## Github
-[Github](https://github.com/sonder-art/automl_o23)
-## Discord
-[Discord](https://discord.gg/3xSr6nJjnR)
-
 
